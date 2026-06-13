@@ -22,7 +22,7 @@ The application allows users to search for Swedish companies by company name or 
 - JavaScript
 - Node.js
 - Express
-- SCB Business Register API
+- SCB Company Register API
 - HTTPS Client Certificates
 - dotenv
 - Node Cache
