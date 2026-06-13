@@ -1,8 +1,8 @@
 # Swedish Company Register Search Engine
 
-<a href="YOUR_LIVE_DEMO_URL" target="_blank" rel="noopener noreferrer">LIVE DEMO</a>
+<a href="https://rick-project.onrender.com/" target="_blank" rel="noopener noreferrer">LIVE DEMO</a>
 
-This project is a company search engine for the Swedish Company Register, built with React, Node.js, Express, and the SCB Company Register API.
+This project is a company search engine, built with React, Node.js, Express, and the [SCB](https://www.scb.se/) Company Register API.
 
 The application allows users to search for Swedish companies by company name or organization number and retrieve company information directly from SCB register using certificate-based authentication.
 
@@ -13,7 +13,7 @@ The application allows users to search for Swedish companies by company name or 
 - `src/main.jsx` - React entry point
 - `server.js` - Express API and SCB integration
 - `.env` - environment variables
-- `certs/` - SCB client certificate (ignored by Git)
+- `certs/` - SCB client certificate
 
 ## Technologies
 
